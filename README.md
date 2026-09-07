@@ -81,7 +81,7 @@ I maintain a personal penetration testing lab built on VirtualBox, running Kali 
 ## 📬 Get In Touch
 
 - 📧 dylan4luv@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/chinaedu-chukwuma)
+- 💼 [LinkedIn](https://www.linkedin.com/in/chinaedu-chukwuma)
 - 🔐 [TryHackMe](https://tryhackme.com/p/BigChicks)
 
 ---
